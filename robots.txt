@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hjaelp-now.github.io/guides/sitemap.xml.gz
