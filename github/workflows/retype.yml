@@ -1,3 +1,4 @@
+url: https://hjaelp-now.github.io/guides/
 name: Publish Retype powered website to GitHub Pages
 on:
   workflow_dispatch:
