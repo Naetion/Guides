@@ -1,11 +1,20 @@
 input: .
 output: .retype
 url: https://docs.hjaelpcoin.com/
+favicon: assets/hjaelp-logo-icon.png
 branding:
-  title: HJAELP
   label: Docs
+  logo: assets/hjaelp-logo-long.png
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Buy HJAELPCOIN
+  link: https://hjaelpcoin.com/
+- text: HJAELP site
+  link: https://hjaelp.io/
+- text: Telegram
+  link: https://t.me/hjaelpcoin
+- text: Discord
+  link: https://discord.gg/ShEUydu9
+- text: Linktree
+  link: https://linktr.ee/hjaelpio
 footer:
   copyright: "&copy; Copyright HJAELP ApS {{ year }}. All rights reserved."
