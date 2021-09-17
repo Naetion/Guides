@@ -19,5 +19,3 @@ jobs:
       - uses: retypeapp/action-github-pages@v1
         with:
           update-branch: true
-
-url: https://hjaelp-now.github.io/guides/
