@@ -36,7 +36,7 @@ Be prepared, "gas fees" charged by Ethereum (basically just transaction fees use
 
 Congratulations, you're now officially a member of the HJAELP community! :beers:
 
-We can't wait to buidl the most powerful, equitable service marketplace the world has ever seen, alongside you. :heart:
+We can't wait to buidl the most powerful, equitable service marketplace the world has ever seen, alongside you. :heart: :heart:
 
 ## Questions?
 
