@@ -8,7 +8,7 @@ Welcome to the getting started guides for [HJAELP](https://hjaelp.io/) and [HJAE
 
 ## What is HJAELP?
 
-HJAELP is a decentralized, user-owned service marketplace that allows service providers to easily show, manage, and sell their skills. HJAELP's model allows providers to keep 100% of their earnings, and lets anyone find great services quickly and easily. HJAELP can keep take lower fees and create community ownership through the use of our blockchain token, HJAELPCOIN. 
+HJAELP is a decentralized, user-owned service marketplace that allows service providers to easily show, manage, and sell their skills. HJAELP's model allows providers to keep 100% of their earnings, and lets anyone find great services quickly and easily. HJAELP can take lower fees and create community ownership through the use of our blockchain token, HJAELPCOIN. 
 
 !!! 
 HJAELP means "help" in Danish. It's pronounced "yelp" :hugging_face:

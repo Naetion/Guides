@@ -36,7 +36,17 @@ Be prepared, "gas fees" charged by Ethereum (basically just transaction fees use
 
 Congratulations, you're now officially a member of the HJAELP community! :beers:
 
-We can't wait to buidl the most powerful, equitable service marketplace the world has ever seen, alongside you. :heart: :heart:
+We can't wait to buidl the most powerful, equitable service marketplace the world has ever seen, alongside you. :heart: 
+
+## 5. Bonus: Add HJAELPCOIN to Metamask
+
+1. Open Metamask and click **Assets**
+
+2. Click **Add Token** at the bottom, then click **Custom Token**
+
+3. Paste in HJAELPCOIN's token address into the top field: 0xb81e074730a5939da7a34a86eb74d457d5320739
+
+4. Click **Add Token**. You now can see HJAELPCOIN in your wallet!
 
 ## Questions?
 
