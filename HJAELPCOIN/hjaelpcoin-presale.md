@@ -38,6 +38,18 @@ Congratulations, you're now officially a member of the HJAELP community! :beers:
 
 We can't wait to buidl the most powerful, equitable service marketplace the world has ever seen, alongside you. :heart:
 
+## 5. Bonus: Add HJAELPCOIN to Metamask
+
+See how much HJAELPCOIN you have in your wallet.
+
+1. Open your Metamask and click **Assets**
+
+2. Click **Add Token** on the bottom
+
+3. Click **Custom Token** and paste in the HJAELPCOIN token address: 0xb81e074730a5939da7a34a86eb74d457d5320739 
+
+4. Click **Add Token**. HJAELPCOIN is now added to your wallet!
+
 ## Questions?
 
 If you're still having trouble buying, please do not hesitate to ask a question in [Telegram](https://t.me/hjaelpcoin) or [Discord](https://discord.gg/ShEUydu9). Our community members are standing by and happy to help!
