@@ -2,6 +2,7 @@ input: .
 output: .retype
 url: https://docs.hjaelpcoin.com/
 favicon: assets/hjaelp-logo-icon.png
+image: assets/Slide-3-twitter.png
 branding:
   label: Docs
   logo: assets/hjaelp-logo-long.png
