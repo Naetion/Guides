@@ -16,7 +16,7 @@ HJAELP means "help" in Danish. It's pronounced "yelp" :hugging_face:
 
 ## What is HJAELPCOIN?
 
-HJAELPCOIN is why HJAELP can take such low fees. It also enables our community of users to have control over the entire network. HJAELPCOIN is the utility token inside HJAELP used to buy and sell services, win rewards, govern the network, and more.
+HJAELPCOIN is why HJAELP can take such low fees. It also enables our community of users to have control over the entire network. HJAELPCOIN is the utility token inside HJAELP used to earn rewards, govern the network, and more.
 
 ## Why is HJAELP different?
 
