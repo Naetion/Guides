@@ -8,14 +8,14 @@ branding:
   label: Docs
   logo: assets/hjaelp-logo-long.png
 links:
-- text: Buy HJAELPCOIN
+- text: About HJAELPCOIN
   link: https://hjaelpcoin.com/
 - text: HJAELP site
   link: https://hjaelp.io/
 - text: Telegram
   link: https://t.me/hjaelpcoin
 - text: Discord
-  link: https://discord.gg/SmXQTUPXUW
+  link: https://discord.gg/z75zHQssFH
 - text: Linktree
   link: https://linktr.ee/hjaelpio
 footer:

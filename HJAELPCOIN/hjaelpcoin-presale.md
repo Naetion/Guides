@@ -1,6 +1,14 @@
+---
+visibility: hidden
+---
 # HJAELPCOIN Presale
 
-Here you'll find step-by-step instructions on how to join the HJAELPCOIN presale and buy your first HJAELPCOINs. Let's get started!
+!!! The HJAELPCOIN presale has ended. 
+Thanks to the whole community for making it a huge success! Stay tuned in Discord and Telegram for more info on future opportunities to get involved.
+!!!
+
+
+Below you'll find step-by-step instructions on how to join the HJAELPCOIN presale and buy your first HJAELPCOINs. Let's get started!
 
 ## 1. Download Metamask (or another Ethereum wallet)
 

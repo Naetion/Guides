@@ -61,4 +61,4 @@ Being a Resolver can be a great way to contribute to the HJAELP community and ea
 
 More information on how to become a Resolver will become available as we build out the system (see the [roadmap](./roadmap.md)).
 
-To receive updates on when the first Resolvers elections will start, join our [Telegram](https://t.me/hjaelpcoin) or [Discord](https://discord.gg/ShEUydu9).
+To receive updates on when the first Resolvers elections will start, join our [Telegram](https://t.me/hjaelpcoin) or [Discord](https://discord.gg/z75zHQssFH).

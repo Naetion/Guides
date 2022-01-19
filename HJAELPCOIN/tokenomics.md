@@ -6,7 +6,7 @@ HJAELPCOIN is built on the Ethereum blockchain using the ERC-20 token standard.
 
 There will be a fixed initial supply of 1 billion HJAELPCOIN tokens created at launch. No additional tokens will be minted or mined. None will be burned at launch, but the HJAELP team will retain the ability to manually burn tokens in their possession—even as they do not plan to use this ability. This fixed supply will allow HJAELPCOIN to achieve a reasonable value as it is transacted for services on the HJAELP platform, and lend it the value needed to stand in for fiat currency as medium of exchange.
 
-5% of all HJAELPCOIN tokens (50 million tokens) will be made available in the [initial public pre-sale](./hjaelpcoin-presale.md). 
+5% of all HJAELPCOIN tokens (50 million tokens) will be made available in the [initial public pre-sale](https://hjaelpcoin.com). 
 
 30% of all tokens will be reserved for potential future pre-sales. In the event that those pre-sales do not occur, then these tokens will instead be held in the Service Economy Wallet and used to reward HJAELPers when they complete work on the HJAELP platform, etc.
 

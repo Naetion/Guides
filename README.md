@@ -30,17 +30,17 @@ HJAELPCOIN allows HJAELPers to collectively control the network and take part in
 
 ## Learn more & get involved
 
-!!! :zap: [HJAELPCOIN Presale Coming Soon!](./HJAELPCOIN/buy-hjaelpcoin.md) :zap:
+<!--!!! :zap: [HJAELPCOIN Presale Coming Soon!](./HJAELPCOIN/buy-hjaelpcoin.md) :zap:
 Be the first to get HJAELPCOIN and access exclusive discounts :smiley: 
-!!!
+!!!-->
 
 Use the links below to find out more about how HJAELP works. We hope you'll get involved, whether as an app user (client), service provider (HJAELPer), dispute resolver (Juror), talent vetter (Validator), token holder, or just an active community member.
 
-If you have any questions as you go along, please don't hesitate to ask in [Telegram](https://t.me/hjaelpcoin) or [Discord](https://discord.gg/ShEUydu9).
+If you have any questions as you go along, please don't hesitate to ask in [Telegram](https://t.me/hjaelpcoin) or [Discord](https://discord.gg/z75zHQssFH).
 
 ### Places to start 
 
-[!ref Buy HJAELPCOIN](./HJAELPCOIN/buy-hjaelpcoin.md)
+[!ref About HJAELPCOIN](./HJAELPCOIN/buy-hjaelpcoin.md)
 
 [!ref Become a Service Provider (HJAELPer)](./provide-services.md)
 

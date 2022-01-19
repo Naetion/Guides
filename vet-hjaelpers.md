@@ -42,4 +42,4 @@ Once the referral system is live, anyone can become a Level 1 Validator and star
 
 L2s earn HJAELPCOIN tokens for completing each of the tasks involved in vetting HJAELPers and making sure our clients will have the highest chance of having an amazing experience every time.
 
-If you want to learn more about becoming a Validator, join our [Telegram](https://t.me/hjaelpcoin) or [Discord](https://discord.gg/ShEUydu9). There you'll receive updates when we're taking signups for the first batch of Validators. 
+If you want to learn more about becoming a Validator, join our [Telegram](https://t.me/hjaelpcoin) or [Discord](https://discord.gg/z75zHQssFH). There you'll receive updates when we're taking signups for the first batch of Validators. 

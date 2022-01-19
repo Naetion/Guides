@@ -2,29 +2,29 @@
 order: 100
 ---
 
-# Buy HJAELPCOIN
+# About HJAELPCOIN
 
-HJÆLPCOIN is HJAELP's utility token. Anyone can use it to buy and sell services inside HJAELP, and service providers (HJAELPers) can use it to submit and vote on proposals for how the platform should work. 
+HJÆLPCOIN is HJAELP's utility token. Anyone can use it to get access to special features inside HJAELP, and service providers (HJAELPers) can use it to submit and vote on proposals for how the platform should work. 
 
-## Buy HJAELPCOIN Now
+## Learn more about HJAELPCOIN
 
-HJAELPCOIN will be on sale for a limited time to early supporters. Click the button below to access the HJAELPCOIN Presale.
+HJAELPCOIN will be on sale for a limited time to early supporters. To access any presales, be sure to keep up with us on [Telegram](https://t.me/hjaelpcoin) and [Discord](https://discord.gg/z75zHQssFH).
 
-[!button size="2xl" target="blank" text="Buy HJAELPCOIN Now"](https://hjaelpcoin.com/)
+[!button size="l" target="blank" text="Learn more about HJAELPCOIN"](https://hjaelpcoin.com/)
 
-[!ref Need help joining the HJAELPCOIN Presale?](./hjaelpcoin-presale.md)
+<!--[!ref Need help joining the HJAELPCOIN Presale?](./hjaelpcoin-presale.md)-->
 
-### Why participate in the presale?
+<!--### Why participate in a presale?
 
 It's a great way to show your support of the whole HJAELP ecosystem. If you believe that wealth should be shared more equitably across the economy, you should support HJAELP. 
 
 If you believe that the upside of a platform's success should be shared more equally by all its stakeholders, you should support HJAELP.
 
-Plus if you buy your HJAELPCOIN in this presale, you'll gain access to exclusive discounts on services in the HJAELP app. 
-
-[!ref Learn about HJAELPCOIN's tokenomics](./tokenomics.md)
+Plus if you buy your HJAELPCOIN in this presale, you'll gain access to exclusive discounts on services in the HJAELP app. -->
 
 ## Why HJAELPCOIN?
+
+[!ref Learn about HJAELPCOIN's tokenomics](./tokenomics.md)
 
 Through HJAELPCOIN, service providers will finally have a stake and a say in the platform they use to earn a living.
 
