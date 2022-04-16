@@ -7,7 +7,7 @@ icon: rocket
 
 We're so glad you're here! Service providers (HJAELPers) are the heart and soul of HJAELP. You are why we exist. We're here to make it much easier, more powerful, and more lucrative for you to showcase, sell, and manage your service business. Whatever that is! 
 
-[!button size="2xl" target="blank" text="Provide services on HJAELP"](https://9si7fj39n3w.typeform.com/to/QccWfqXX)
+[!button size="2xl" target="blank" text="Provide services on HJAELP"](https://hjaelp.typeform.com/hjaelper)
 
 HJAELP is like if Upwork paid you in shares of their company every time you completed a job. And took a 0% fee from service providers (we only charge clients 10%). 
 
@@ -25,5 +25,5 @@ And we're building an awesome experience besides - one that not only gives you m
 
 Interested in being one of the first HJAELPers on the platform when we launch? Click the button below to register your interest, and be sure to join our [Discord](https://discord.gg/z75zHQssFH) to learn about opportunities to earn and win HJAELPCOIN.
 
-[!button size="2xl" target="blank" text="Provide services on HJAELP"](https://9si7fj39n3w.typeform.com/to/QccWfqXX)
+[!button size="2xl" target="blank" text="Provide services on HJAELP"](https://hjaelp.typeform.com/hjaelper)
 
