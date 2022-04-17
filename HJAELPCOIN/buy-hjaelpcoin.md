@@ -10,7 +10,7 @@ HJÆLPCOIN is HJAELP's utility token. Anyone can use it to get access to special
 
 HJAELPCOIN will be on sale for a limited time to early supporters. To access any presales, be sure to keep up with us on [Telegram](https://t.me/hjaelpcoin) and [Discord](https://discord.gg/z75zHQssFH).
 
-[!button size="l" target="blank" text="Learn more about HJAELPCOIN"](https://hjaelpcoin.com/)
+[!button size="l" target="blank" text="Learn more about HJAELPCOIN"](https://hjaelp.xyz/)
 
 <!--[!ref Need help joining the HJAELPCOIN Presale?](./hjaelpcoin-presale.md)-->
 
