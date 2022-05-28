@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://docs.hjaelpcoin.com/sitemap.xml.gz
+Sitemap: https://docs.docs.naetion.xyz/sitemap.xml.gz
