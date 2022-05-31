@@ -1,22 +1,22 @@
 input: .
-output: .retype
-url: https://docs.hjaelpcoin.com/
-favicon: assets/hjaelp-logo-icon.png
+output: .naetion
+url: https://docs.naetion.xyz/
+favicon: assets/naetion-logo-icon.png
 image: assets/Slide-3-twitter.png
 twitter:card: assets/Slide-3-twitter.png
 branding:
   label: Docs
-  logo: assets/hjaelp-logo-long.png
+  logo: assets/naetion-logo-long.png
 links:
-- text: About HJAELPCOIN
-  link: https://hjaelpcoin.com/
-- text: HJAELP site
-  link: https://hjaelp.io/
+- text: About NAETION ($NTN)
+  link: https://docs.naetion.xyz/
+- text: NAETION site
+  link: https://naetion.xyz/
 - text: Telegram
-  link: https://t.me/hjaelpcoin
+  link: https://t.me/naetiondao
 - text: Discord
-  link: https://discord.gg/z75zHQssFH
+  link: https://discord.gg/J94RXYYTux
 - text: Linktree
-  link: https://linktr.ee/hjaelpio
+  link: https://linktr.ee/naetionhq
 footer:
   copyright: "&copy; Copyright HJAELP ApS {{ year }}. All rights reserved."

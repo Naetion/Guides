@@ -4,7 +4,7 @@ icon: law
 
 # Become a Resolver
 
-A key part of HJAELP's decentralized service marketplace is our answer to this question: 
+A key part of NAETION's decentralized service marketplace is our answer to this question: 
 
 **What happens when clients and service providers disagree?**
 
@@ -18,26 +18,26 @@ Disputes will happen, but what sets us apart is how we deal with them.
 
 That's where the community comes in.
 
-## HJAELP's decentralized dispute resolution system
+## NAETION's decentralized dispute resolution system
 
 In legacy marketplaces like Upwork, their employees unilaterally arbitrate disputes based on opaque rules and processes. 
 
-At HJAELP, the community arbitrates disputes by following a clear, transparent, fair process. When a disagreement arises, we trust our community to understand the evidence and make fair and thoughtful decisions about how to come to a resolution.
+At NAETION, the community arbitrates disputes by following a clear, transparent, fair process. When a disagreement arises, we trust our community to understand the evidence and make fair and thoughtful decisions about how to come to a resolution.
 
-In HJAELP's ultimate version, this entire process will take place on-chain. Resolvers will be able to decide disputes directly from the dispute resolution dApp, in a completely decentralized way. In this way, we can improve the quality of decisions while increasing the system's throughput.
+In NAETION's ultimate version, this entire process will take place on-chain. Resolvers will be able to decide disputes directly from the dispute resolution dApp, in a completely decentralized way. In this way, we can improve the quality of decisions while increasing the system's throughput.
 
 We believe this is a crucial "coordination lego block" that other decentralized organizations will need as well. We will release it for general use once we've built the protocol out for ourselves.
 
 ### How disputes get resolved
 
-The HJAELP community elects Resolvers that represent HJAELPers, clients, investors, and validators. Under the direction of a community-elected Chief Resolver, Resolvers review the evidence and offer expert opinions on subjective claims in order to come to an agreement. This ensures decisions are fair and unbiased. 
+The NAETION community elects Resolvers that represent HJAELPers, clients, investors, and validators. Under the direction of a community-elected Chief Resolver, Resolvers review the evidence and offer expert opinions on subjective claims in order to come to an agreement. This ensures decisions are fair and unbiased. 
 
 ### Dispute resolution in 4 steps
 
-Each dispute has four phases in HJAELP's resolution system.
+Each dispute has four phases in NAETION's resolution system.
 
 #### 1. Start a conversation in good faith
-Most disputes can be resolved with a simple conversation. HJAELP makes this easy by enabling direct messaging inside the platform, allowing direct communication between both parties. Before starting a formal dispute resolution process, HJAELP helps both sides come to a mutually agreed-upon decision that keeps both sides happy.
+Most disputes can be resolved with a simple conversation. NAETION makes this easy by enabling direct messaging inside the platform, allowing direct communication between both parties. Before starting a formal dispute resolution process, NAETION helps both sides come to a mutually agreed-upon decision that keeps both sides happy.
 
 #### 2. Register a dispute
 If either party want to dispute an invoice, they can register a dispute by submitting a short form specifying the reason for the dispute and the basis for the dispute. Each dispute must start with a statement as well as supporting evidence. A community-elected representative then works with the person to help complete the right documentation and provide proper notification to the other party.
@@ -50,15 +50,15 @@ Skilled community members will act as expert witnesses and review subjective sta
 
 ### Why become a Resolver?
 
-Resolvers and Chief Resolvers receive HJAELPCOIN tokens when they complete dispute resolution tasks. Each receives tokens when:
+Resolvers and Chief Resolvers receive NAETION ($NTN) tokens when they complete dispute resolution tasks. Each receives tokens when:
 - They are elected to their post
 - They complete the mandatory dispute resolution training course
 - They participate in a dispute case and issue judgements
 
-Being a Resolver can be a great way to contribute to the HJAELP community and earn tokens for your efforts.
+Being a Resolver can be a great way to contribute to the NAETION community and earn tokens for your efforts.
 
 ### How do I become a Resolver?
 
 More information on how to become a Resolver will become available as we build out the system (see the [roadmap](./roadmap.md)).
 
-To receive updates on when the first Resolvers elections will start, join our [Telegram](https://t.me/hjaelpcoin) or [Discord](https://discord.gg/z75zHQssFH).
+To receive updates on when the first Resolvers elections will start, join our [Telegram](https://t.me/naetiondao) or [Discord](https://discord.gg/J94RXYYTux).

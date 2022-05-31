@@ -1,6 +1,6 @@
-# HJAELP Yield
+# NAETION Yield
 
-HJÆLP Yield is designed to generate yield in a variety of ways for both HJÆLP platform users as well as more technically savvy users who can interact with the protocol through the HJAELP Yield dApp. It is currently [in development](../roadmap.md).
+HJÆLP Yield is designed to generate yield in a variety of ways for both HJÆLP platform users as well as more technically savvy users who can interact with the protocol through the NAETION Yield dApp. It is currently [in development](../roadmap.md).
 
 HJÆLP Yield is a yield aggregator that allows users to generate yield through yield farming, lending, and borrowing. It aggregates the best performing yield pools from across different DeFi protocols and uses battle-tested strategies to increase yield and decrease risk.
 
