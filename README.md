@@ -11,7 +11,7 @@ Welcome to the getting started guides for [NAETION](https://naetion.xyz/) and [N
 NAETION is a decentralized, user-owned service marketplace that allows service providers to easily show, manage, and sell their skills. NAETION's model allows providers to keep 100% of their earnings, and lets anyone find great services quickly and easily. NAETION can take lower fees and create community ownership through the use of our blockchain token, NAETION ($NTN). 
 
 !!! 
-NAETION means "help" in Danish. It's pronounced "yelp" :hugging_face:
+Who knows? Maybe a small &quot;naetion&quot; will form. :hugging_face:
 !!!
 
 ## What is NAETION ($NTN)?
