@@ -24,7 +24,7 @@ There will be a fixed initial supply of 1 billion NAETION ($NTN) tokens created 
 
 10.5% of all tokens will be put in NAETION's treasury to pay for ongoing marketing and development. These tokens will be used exclusively to directly advance the NAETION ($NTN) [roadmap](../roadmap.md), such as development of Web3 features and automated rewards.
 
-Finally, 12.5% of tokens will be reserved for the NAETION founding team. These tokens will be put on a vesting contract as follows: 25% of the tokens will be locked for 6 months, 25% locked for one year, 25% locked for 18 months, and 25% locked for two years. This will serve as an incentive for the founders to continue to grow NAETION ($NTN) and NAETION into the far future.
+Finally, 13% of tokens will be reserved for the NAETION founding team. These tokens will be put on a vesting contract as follows: 25% of the tokens will be locked for 6 months, 25% locked for one year, 25% locked for 18 months, and 25% locked for two years. This will serve as an incentive for the founders to continue to grow NAETION ($NTN) and NAETION into the far future.
 
 ## Differential Transaction Taxes
 
