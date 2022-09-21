@@ -40,9 +40,9 @@ If you have any questions as you go along, please don't hesitate to ask in [Tele
 
 ### Places to start 
 
-[!ref About NAETION ($NTN)](./NAETION ($NTN)/buy-ntn.md)
+[!ref About NAETION ($NTN)](./NAETION/buy-ntn.md)
 
-[!ref Become a Service Provider (HJAELPer)](./provide-services.md)
+[!ref Become a Service Provider (HAELPer)](./provide-services.md)
 
 [!ref Hire Service Providers](./hire-hjaelpers.md)
 
