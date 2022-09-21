@@ -48,4 +48,4 @@ Pools on NAETION Yield and other platforms that feature NAETION ($NTN) will also
 
 [!ref Learn more about NAETION Yield](./naetion-yield.md)
 
-[!ref NAETION ($NTN) tokenomics](./NAETION/naetion-presale.md)
+[!ref NAETION ($NTN) how to buy](./NAETION/naetion-presale.md)
