@@ -8,11 +8,11 @@ There will be a fixed initial supply of 1 billion NAETION ($NTN) tokens created 
 
 5% of all NAETION ($NTN) tokens (50 million tokens) will be made available in the [initial public pre-sale](https://presale.naetion.xyz). 
 
-30% of all tokens will be reserved for potential future pre-sales. In the event that those pre-sales do not occur, then these tokens will instead be held in the Service Economy Wallet and used to reward HJAELPers when they complete work on the NAETION platform, etc.
+30% of all tokens will be reserved for potential future pre-sales. In the event that those pre-sales do not occur, then these tokens will instead be held in the Service Economy Wallet and used to reward QUESTers when they complete work on the NAETION platform, etc.
 
 39% of all tokens will be reserved in the Service Economy Wallet to be used exclusively for the following purposes:
 
-- Distributing rewards to HJAELPers who complete work on the platform.
+- Distributing rewards to QUESTers who complete work on the platform.
 
 - Distributing rewards to clients, Validators, Resolvers, and other community members in return for performing behaviors deemed beneficial to the collective NAETION ecosystem.
 

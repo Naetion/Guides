@@ -30,7 +30,7 @@ We believe this is a crucial "coordination lego block" that other decentralized 
 
 ### How disputes get resolved
 
-The NAETION community elects Resolvers that represent HJAELPers, clients, investors, and validators. Under the direction of a community-elected Chief Resolver, Resolvers review the evidence and offer expert opinions on subjective claims in order to come to an agreement. This ensures decisions are fair and unbiased. 
+The NAETION community elects Resolvers that represent QUESTers, clients, investors, and validators. Under the direction of a community-elected Chief Resolver, Resolvers review the evidence and offer expert opinions on subjective claims in order to come to an agreement. This ensures decisions are fair and unbiased. 
 
 ### Dispute resolution in 4 steps
 
