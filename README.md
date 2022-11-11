@@ -36,7 +36,7 @@ Be the first to get NAETION ($NTN) and access exclusive discounts :smiley:
 
 Use the links below to find out more about how NAETION works. We hope you'll get involved, whether as an app user (client), service provider (QUESTers), dispute resolver (Juror), talent vetter (Validator), token holder, or just an active community member.
 
-If you have any questions as you go along, please don't hesitate to ask in [Telegram](https://t.me/naetiondao) or [Discord](https://discord.gg/J94RXYYTux).
+If you have any questions as you go along, please don't hesitate to ask in [Telegram](https://t.me/naetiondao) or [Discord](https://discord.gg/Naetion).
 
 ### Places to start 
 

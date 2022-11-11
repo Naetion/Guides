@@ -8,7 +8,7 @@ $NTN is NAETION's utility token. Anyone can use it to get access to special feat
 
 ## Learn more about NAETION ($NTN)
 
-NAETION ($NTN) will be on sale for a limited time to early supporters. To access any presales, be sure to keep up with us on [Telegram](https://t.me/naetiondao) and [Discord](https://discord.gg/J94RXYYTux).
+NAETION ($NTN) will be on sale for a limited time to early supporters. To access any presales, be sure to keep up with us on [Telegram](https://t.me/naetiondao) and [Discord](https://discord.gg/Naetion).
 
 [!button size="l" target="blank" text="Learn more about NAETION ($NTN)"](https://presale.naetion.xyz/)
 

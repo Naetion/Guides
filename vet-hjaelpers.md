@@ -42,4 +42,4 @@ Once the referral system is live, anyone can become a Level 1 Validator and star
 
 L2s earn NAETION ($NTN) tokens for completing each of the tasks involved in vetting QUESTers and making sure our clients will have the highest chance of having an amazing experience every time.
 
-If you want to learn more about becoming a Validator, join our [Telegram](https://t.me/naetiondao) or [Discord](https://discord.gg/J94RXYYTux). There you'll receive updates when we're taking signups for the first batch of Validators. 
+If you want to learn more about becoming a Validator, join our [Telegram](https://t.me/naetiondao) or [Discord](https://discord.gg/Naetion). There you'll receive updates when we're taking signups for the first batch of Validators. 

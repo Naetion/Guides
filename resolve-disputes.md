@@ -61,4 +61,4 @@ Being a Resolver can be a great way to contribute to the NAETION community and e
 
 More information on how to become a Resolver will become available as we build out the system (see the [roadmap](./roadmap.md)).
 
-To receive updates on when the first Resolvers elections will start, join our [Telegram](https://t.me/naetiondao) or [Discord](https://discord.gg/J94RXYYTux).
+To receive updates on when the first Resolvers elections will start, join our [Telegram](https://t.me/naetiondao) or [Discord](https://discord.gg/Naetion).
